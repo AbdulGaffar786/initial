@@ -10,4 +10,4 @@ myself gaffar
   - what
     + _karunakar_
   + where
-    - ~~mits~~
+    - ~~mits
