@@ -1,3 +1,3 @@
 # initial
 ## sample project
-###front end nano degree
+### front end nano degree
