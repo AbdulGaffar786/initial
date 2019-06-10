@@ -1,5 +1,5 @@
 # initial
 ## sample project
 ### front end nano degree
-** we are students ** 
+**we are students** 
 myself gaffar
